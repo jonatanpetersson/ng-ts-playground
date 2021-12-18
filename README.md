@@ -1,2 +1,2 @@
 # ng-ts-playground
-Trying out Angular, Typescript and some additional libraries
+Trying out Angular, Typescript, Paper.js and some additional libraries
